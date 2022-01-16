@@ -1,0 +1,29 @@
+.efd1{
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: 'Times New Roman';   
+}
+@media screen and (max-width:600px){
+    .efd1{
+        margin:10px;
+    }
+}
+.acd{
+    font-size: 22px;
+    font-weight: bold;
+}
+@media screen and (max-width:600px){
+    .acd{
+        font-size:17px;
+    }
+}
+.tab{
+   
+}
+@media screen and (max-width:600px){
+    .tab{
+        margin-left:2px;
+        margin-right:2px;
+        
+    }
+}
