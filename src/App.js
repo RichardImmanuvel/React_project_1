@@ -2,7 +2,6 @@ import Header from './Portfolio/Header';
 import Working from './Portfolio/Working';
 import Education from './Portfolio/Education';
 import Contact from './Portfolio/Contact';
-import Sample from './Portfolio/Sample';
 
 function App() {
   return (
@@ -11,7 +10,6 @@ function App() {
       <Working />
       <Education />
       <Contact />
-      
     </div>
   );
 }
