@@ -15,8 +15,8 @@ const Contact = () => {
             <div class="mx-[3%] sm:mx-[5%]">
                 <section className="text-lg">
                 <h4 class="sm:mx-4">Contact no: +91 9655027743</h4>
-                <h4 class="sm:mx-4">Email: <a href="" class="underline text-blue-900">richardimmanuvel1999@gmail.com</a></h4>
-                <h4 class="sm:mx-4">linkedin id:<br></br><a href="https://www.linkedin.com/in/richard-immanuvel-a0695117b" target="_blank" class="underline text-blue-900">richard-immanuvel-a0695117b</a></h4>
+                <h4 class="sm:mx-4">Email: <a href="mailto:richardimmanuvel1999@gmail.com" class="underline text-blue-900">richardimmanuvel1999@gmail.com</a></h4>
+                <h4 class="sm:mx-4">linkedin id:<br></br><a href="https://www.linkedin.com/in/richard-immanuvel-a0695117b" target="_blank" rel="noreferrer" class="underline text-blue-900">richard-immanuvel-a0695117b</a></h4>
                 </section>
             </div>
         </div>
